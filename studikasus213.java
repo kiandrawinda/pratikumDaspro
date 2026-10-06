@@ -10,7 +10,7 @@ public class studikasus213{
         System.out.print("Jenis kegiatan (BELMAWA/BAKORMA/MANDIRI/PKM/LAINNYA): ");
         String jenisKegiatan = sc.nextLine();
 
-        if (jenisKegiatan == "BELMAWA" || 
+        if (jenisKegiatan == "belmawa" || 
             jenisKegiatan == "BAKORMA" || 
             jenisKegiatan == "MANDIRI") {
 
